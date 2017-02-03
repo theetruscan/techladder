@@ -82,34 +82,6 @@ Builds tools, frameworks, and projects that improve productivity for many collea
 
 Able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements; works closely with engineering, product, and sales teams to ensure continued product/market fit; finds the balance between doing it right and getting it done; resilient to changes in product priorities; keeps entire team focused on important, high-value efforts
 
-## Distinguished Engineer
-
-**Management Equivalent**: Director
-
-### Domain Knowledge
-
-Deep and broad knowledge of both current and emerging technologies that affect the business; core contributor to and maintainer of well-adopted libraries, tools, and services; expert in designing, implementing, and troubleshooting major portions of our production stack
-
-### Teaching and Mentoring
-
-Sought out by other employees as well as external teams and individuals as a mentor and educator; often invited as a speaker to industry events; may be a published author on relevant technical topics
-
-### Culture and Leadership
-
-Takes central role in decision making for both technical and organizational issues; helps to reconcile engineering POV with other groups; defines practices and processes that have an oversized, positive impact on the entire organization's output
-
-### Customer Success
-
-Demonstrates deep understanding of customer needs and competitive landscape; able to estimate impact of and help lead efforts that significantly change product roadmap and footprint; plans and leads implementation efforts for major redesign, refactoring, and optimization efforts
-
-## Fellow
-
-**Management Equivalent**: Vice President
-
-Title bestowed only by action of exec staff and/or the board. Candidates should show all of the characteristics and skills of a distinguished engineer, as well as being critical to the success, reputation, and technical excellence of the entire engineering organization.
-
-_Note: it is obviously not ideal to have a gendered term for this level. This is the standard industry term, but pull requests containing a more universal identifier will be gleefully considered._
-
 # Managers
 
 Good managers can do a lot to make their team successful, but part of successful management is learning to delegate and stop doing the technical work that you used to own. Day-to-day management work is very interrupt-driven, which makes it hard to consistently produce good code.
