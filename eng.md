@@ -2,26 +2,6 @@
 
 These titles describe seniority along four main axes: domain knowledge, teaching and mentoring, culture and leadership, and customer success. Most industry ladders focus almost entirely on the first of these four, and expect anyone showing signs of good mentoring or leadership to move directly into management. This approach often takes very capable, happy engineers and turns them into mediocre, unhappy managers. That's bad for everyone involved.
 
-## Associate Engineer
-
-**Management Equivalent**: _n/a_
-
-### Domain Knowledge
-
-Basic CS skills; some knowledge of coding in one or more languages, and limited experience with web, mobile, or data programming
-
-### Teaching and Mentoring
-
-Able to present and discuss work with other engineers, and receptive to feedback and coaching from team
-
-### Culture and Leadership
-
-Shows independent initiative and problem solving, and respects team and company values
-
-### Customer Success
-
-Ships features with limited but measurable impact to customers and/or other teams
-
 ## Engineer
 
 **Management Equivalent**: _n/a_
