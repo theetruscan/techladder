@@ -28,7 +28,7 @@ Consistently delivers systems and features that provide significant value to cus
 
 ### Domain Knowledge
 
-Proficient with UA engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
+Proficient with engineering stack and preferred tools/style; able to design interfaces and reusable components for their own team; understands scaling, reliability, and maintenance trade-offs as they occur in practice
 
 ### Teaching and Mentoring
 
@@ -92,7 +92,7 @@ Good managers can do a lot to make their team successful, but part of successful
 
 ### Scope and Impact
 
-Leads a team of 3+ engineers; helps to set project scope and requirements; mentors new team members on both technical and organizational challenges
+Leads a smaller team of engineers; helps to set project scope and requirements; mentors new team members on both technical and organizational challenges
 
 ### Team Development
 
@@ -108,7 +108,7 @@ Aids product team in setting project scope and schedule; keeps team focused on q
 
 ### Scope and Impact
 
-Leads a larger (8+) team of engineers and/or managers; contributes to efforts that cut across teams and projects; improves quality of shared engineering processes such as hiring, planning, and operations
+Leads a larger team of engineers and/or managers; contributes to efforts that cut across teams and projects; improves quality of shared engineering processes such as hiring, planning, and operations
 
 ### Team Development
 
