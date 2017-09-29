@@ -136,8 +136,6 @@ Works with product and sales teams to broadly prioritize and scope work for cust
 
 ## Vice President
 
-**Engineer Equivalent:** Fellow
-
 ### Scope and Impact
 
 Owns success of engineering and cross-functional goals; works with other executive leadership and the board to define long-term initiatives; represents the company with vendors, partners, and industry groups
